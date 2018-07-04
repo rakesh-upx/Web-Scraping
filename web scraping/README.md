@@ -35,7 +35,7 @@ The entire experiment was conducted in Python.`BeautifulSoup,urllib` libraries w
 
 
 <p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="300px">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="100px">
   </p>
 
 
