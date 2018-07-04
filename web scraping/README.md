@@ -76,7 +76,7 @@ It helps to find all the html markup in a sequential way so that it get easy for
 
 
 
-![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/prettify.PNG")
+![alt-text](https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/prettify.PNG)
 
 
 
