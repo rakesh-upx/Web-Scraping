@@ -1,2 +1,15 @@
-# web_scraping
-scrape data from websites
+## web_scraping
+Scrape in general means dragging or extracting something from jumbled things.Web Scraping conveys the same meaning & gives us wonderful opportunity to extract data from website we want so that we can use the data for further analysis.
+
+
+
+<p align="center">
+  <img src="Images/web-scraping-demystified.png",alt="neofetch" align="left" height="210px">
+  </p>
+
+
+
+
+
+
+
