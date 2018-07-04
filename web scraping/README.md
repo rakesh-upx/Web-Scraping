@@ -43,7 +43,7 @@ The entire experiment was conducted in Python.`BeautifulSoup,urllib` libraries w
 
 
 <p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/urllib.PNG",alt="neofetch" align="middle" height="80px">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/urllib.PNG",alt="neofetch" align="middle" height="50px">
   </p>
 
 
@@ -53,7 +53,7 @@ The soup was prepared using BeautifulSoup & passing html parser
 
 
 <p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/soup.PNG",alt="neofetch" align="middle" height="80px">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/soup.PNG",alt="neofetch" align="middle" height="40px">
   </p>
 
 
@@ -64,7 +64,7 @@ The soup was prepared using BeautifulSoup & passing html parser
 The html contains tag,class body & `find_all` function returns all other html markup 
 
 <p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/html_tag.PNG",alt="neofetch" align="middle" height="80px">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/html_tag.PNG",alt="neofetch" align="middle" height="30px">
   </p>
 
 
@@ -75,9 +75,9 @@ It helps to find all the html markup in a sequential way so that it get easy for
 
 
 
-<p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/prettify.PNG",alt="neofetch" align="middle" height="200px">
-  </p>
+
+![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/prettify.PNG")
+
 
 
 
