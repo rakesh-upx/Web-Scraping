@@ -16,6 +16,11 @@ The analysis aims at how to scrape data from Flipkart's website & using the scra
 
 
 
+## Data Description
+
+_*_ The website contains data on various models of iphone & Samsung mobiles.
+
+
 
 
 
