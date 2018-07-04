@@ -3,8 +3,12 @@ Scrape in general means dragging or extracting something from jumbled things.Web
 
 
 
+
+
+
+
 <p align="center">
-  <img src="Images/web-scraping-demystified.png",alt="neofetch" align="left" height="210px">
+  <img src="Images/web-scraping-demystified.png",alt="neofetch" align="middle" height="210px">
   </p>
 
 
