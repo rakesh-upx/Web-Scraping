@@ -27,7 +27,11 @@ The entire experiment was conducted in Python.`BeautifulSoup,urllib` libraries w
 
 ## Code Snippets
 
+### Import required libraries
 
+<p align="center">
+  <src img="Images/libs_import.PNG",alt="neofetch" align="middle" height="200px">
+    </p>
 
 
 
