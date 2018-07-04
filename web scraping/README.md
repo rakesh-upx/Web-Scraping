@@ -10,7 +10,7 @@ The analysis aims at how to scrape data from Flipkart's website & using the scra
 
 
 <p align="center">
-  <img src="web%20scraping/Images/iphone-8-flipkart-offer-1.png",alt="neofetch" align="middle" height="300px">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/iphone-8-flipkart-offer-1.png",alt="neofetch" align="middle" height="300px">
   </p>
 
 
