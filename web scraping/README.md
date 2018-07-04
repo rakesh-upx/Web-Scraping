@@ -86,7 +86,7 @@ It helps to find all the html markup in a sequential way so that it get easy for
 The below `for loop` helps us to scrape all the data from the pages
 
 
-![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/scrape_now.PNG")
+![alt-text](https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/scrape_now.PNG)
 
 
 
@@ -98,7 +98,7 @@ The below `for loop` helps us to scrape all the data from the pages
 #### iphone
 
 
-![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/apple_1st.PNG")
+![alt-text](https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/apple_1st.PNG)
 
 
 
@@ -106,7 +106,7 @@ The below `for loop` helps us to scrape all the data from the pages
 #### Samsung
 
 
-![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/samsung.PNG")
+![alt-text](https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/samsung.PNG)
 
 
 
