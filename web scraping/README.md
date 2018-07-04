@@ -18,9 +18,14 @@ The analysis aims at how to scrape data from Flipkart's website & using the scra
 
 ## Data Description
 
-_ # *_ The website contains data on various models of iphone & Samsung mobiles.
+* The website contains data on various models of iphone & Samsung mobiles.
+* Model of phone,Rating & Price were scraped from each page
+
+## Tools used
+The entire experiment was conducted in Python.`BeautifulSoup,urllib` libraries were used to scrape each page of the website.The scraped data was tabulated using `csv & Pandas` libraries.
 
 
+## Code Snippets
 
 
 
