@@ -1,1 +1,31 @@
 
+# Scraping Flipkart website 
+
+Please click [here](web%20scraping/Notebook) to view the notebooks containing Web Scraping method
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
