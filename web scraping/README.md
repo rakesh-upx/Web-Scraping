@@ -29,9 +29,19 @@ The entire experiment was conducted in Python.`BeautifulSoup,urllib` libraries w
 
 ### Import required libraries
 
+
+
+
+
+
 <p align="center">
-  <src img="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="160px">
-    </p>
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="300px">
+  </p>
+
+
+
+
+
 
 
 
