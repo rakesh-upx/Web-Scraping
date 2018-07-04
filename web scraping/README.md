@@ -35,22 +35,82 @@ The entire experiment was conducted in Python.`BeautifulSoup,urllib` libraries w
 
 
 <p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="100px">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="80px">
+  </p>
+
+
+### Open the url of the website
+
+
+<p align="center">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/urllib.PNG",alt="neofetch" align="middle" height="80px">
+  </p>
+
+
+### Prepare the soup 
+The soup was prepared using BeautifulSoup & passing html parser
+
+
+
+<p align="center">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/soup.PNG",alt="neofetch" align="middle" height="80px">
+  </p>
+
+
+
+
+### Have look at a html markup
+
+The html contains tag,class body & `find_all` function returns all other html markup 
+
+<p align="center">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/html_tag.PNG",alt="neofetch" align="middle" height="80px">
+  </p>
+
+
+
+### Prettify 
+
+It helps to find all the html markup in a sequential way so that it get easy for us to find the markup.
+
+
+
+<p align="center">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/prettify.PNG",alt="neofetch" align="middle" height="200px">
+  </p>
+
+
+
+### Lets scrape 
+
+The below `for loop` helps us to scrape all the data from the pages
+
+
+<p align="center">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/scrape_now.PNG",alt="neofetch" align="middle" height="200px">
   </p>
 
 
 
 
 
+### Result
+
+#### iphone
+
+<p align="center">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/apple_1st.PNG",alt="neofetch" align="middle" height="200px">
+  </p>
 
 
 
 
 
+#### Samsung
 
-
-
-
+<p align="center">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/samsung.PNG",alt="neofetch" align="middle" height="200px">
+  </p>
 
 
 
