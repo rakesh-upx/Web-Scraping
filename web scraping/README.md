@@ -35,7 +35,7 @@ The entire experiment was conducted in Python.`BeautifulSoup,urllib` libraries w
 
 
 <p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="80px">
+  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/libs_import.PNG",alt="neofetch" align="middle" height="40px">
   </p>
 
 
@@ -81,14 +81,13 @@ It helps to find all the html markup in a sequential way so that it get easy for
 
 
 
-### Lets scrape 
+### Let's scrape 
 
 The below `for loop` helps us to scrape all the data from the pages
 
 
-<p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/scrape_now.PNG",alt="neofetch" align="middle" height="200px">
-  </p>
+![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/scrape_now.PNG")
+
 
 
 
@@ -98,19 +97,20 @@ The below `for loop` helps us to scrape all the data from the pages
 
 #### iphone
 
-<p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/apple_1st.PNG",alt="neofetch" align="middle" height="200px">
-  </p>
 
+![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/apple_1st.PNG")
 
 
 
 
 #### Samsung
 
-<p align="center">
-  <img src="https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/samsung.PNG",alt="neofetch" align="middle" height="200px">
-  </p>
+
+![alt-text]("https://github.com/rakesh-upx/web_scraping/blob/master/web%20scraping/Images/samsung.PNG")
+
+
+
+
 
 
 
