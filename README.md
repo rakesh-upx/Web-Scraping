@@ -6,6 +6,8 @@
   
 Scrape in general means dragging or extracting something from jumbled things.
 <br/>
+<br/>
+
 Web Scraping conveys the same meaning & gives us wonderful opportunity to extract data from website we want so that we can use the data for further analysis.
 
 
@@ -20,7 +22,10 @@ Web Scraping conveys the same meaning & gives us wonderful opportunity to extrac
 
 
 <br/>
-## BeautifulSoup- The scraping Python library 
+
+## BeautifulSoup- The scraping library of Python 
+
+
 <br/>
 
 <p align="center">
@@ -29,6 +34,9 @@ Web Scraping conveys the same meaning & gives us wonderful opportunity to extrac
 
 Python is a beautiful gift for Data Analysts.It has a nice library called `BeautifulSoup` that offers an effortless way of scraping data from any websites.
 
+
+
+<br/>
 
 To install BeautifulSoup please go to [BeautifulSoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
