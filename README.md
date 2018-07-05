@@ -1,4 +1,4 @@
-## web_scraping
+## Web Scraping
 Scrape in general means dragging or extracting something from jumbled things.Web Scraping conveys the same meaning & gives us wonderful opportunity to extract data from website we want so that we can use the data for further analysis.
 
 
@@ -8,7 +8,7 @@ Scrape in general means dragging or extracting something from jumbled things.Web
 
 
 <p align="center">
-  <img src="web%20scraping/Images/web-scraping-demystified.png",alt="neofetch" align="middle" height="260px">
+  <img src="web%20scraping/Images/web-scraping-demystified.png",alt="neofetch" align="left" height="160px">
   </p>
 
 
