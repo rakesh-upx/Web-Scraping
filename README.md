@@ -12,9 +12,14 @@ Scrape in general means dragging or extracting something from jumbled things.Web
 
 <br/>
 <br/>
+<br/>
+
+
 
 
 <br/>
+
+
 
 <p align="center">
   <img src="web%20scraping/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
