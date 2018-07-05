@@ -23,7 +23,7 @@ Web Scraping conveys the same meaning & gives us wonderful opportunity to extrac
 
 <br/>
 
-## BeautifulSoup- The scraping library of Python 
+## BeautifulSoup- The Web Scraper
 
 
 <br/>
