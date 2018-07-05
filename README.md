@@ -4,7 +4,9 @@
   <img src="web%20scraping/Images/web-scraping-demystified.png",alt="neofetch" align="left" height="160px">
   </p>
   
-Scrape in general means dragging or extracting something from jumbled things.Web Scraping conveys the same meaning & gives us wonderful opportunity to extract data from website we want so that we can use the data for further analysis.
+Scrape in general means dragging or extracting something from jumbled things.
+<br/>
+Web Scraping conveys the same meaning & gives us wonderful opportunity to extract data from website we want so that we can use the data for further analysis.
 
 
 
@@ -18,8 +20,8 @@ Scrape in general means dragging or extracting something from jumbled things.Web
 
 
 <br/>
-
-
+## BeautifulSoup- The scraping Python library 
+<br/>
 
 <p align="center">
   <img src="web%20scraping/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
