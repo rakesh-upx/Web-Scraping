@@ -14,6 +14,8 @@ Scrape in general means dragging or extracting something from jumbled things.Web
 <br/>
 
 
+<br/>
+
 <p align="center">
   <img src="web%20scraping/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
   </p>
@@ -23,8 +25,6 @@ Python is a beautiful gift for Data Analysts.It has a nice library called `Beaut
 
 To install BeautifulSoup please go to [BeautifulSoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
-<br/>
-<br/>
 
 
 
