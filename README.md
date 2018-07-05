@@ -10,18 +10,13 @@ Scrape in general means dragging or extracting something from jumbled things.Web
 
 
 
+<br/>
+<br/>
 
 
 <p align="center">
-  <img src="web%20scraping/Images/web-scraping-demystified.png",alt="neofetch" align="left" height="160px">
+  <img src="web%20scraping/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
   </p>
-
-
-
-
-<br/>
-<br/>
-
 
 Python is a beautiful gift for Data Analysts.It has a nice library called `BeautifulSoup` that offers an effortless way of scraping data from any websites.
 
@@ -31,9 +26,7 @@ To install BeautifulSoup please go to [BeautifulSoup documentation](https://www.
 <br/>
 <br/>
 
-<p align="center">
-  <img src="web%20scraping/Images/beautifulsoup-title-graphic.jpg",alt="neofetch" align="left" height="160px">
-  </p>
+
 
 
 
